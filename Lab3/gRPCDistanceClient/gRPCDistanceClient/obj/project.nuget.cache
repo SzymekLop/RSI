@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "2AUsOJ+Zg+j3mpyMJkaqajspVAku613FNjBWOmpDE3Mu8kNw9J4ILfCQF2A+KaIIRAVYr70PP+41Q/ZETgZCPA==",
+  "success": true,
+  "projectFilePath": "D:\\Studia\\Sem6\\Rozproszone systemy informatyczne\\Lab3\\gRPCDistanceClient\\gRPCDistanceClient\\gRPCDistanceClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shibe\\.nuget\\packages\\google.protobuf\\3.22.1\\google.protobuf.3.22.1.nupkg.sha512",
+    "C:\\Users\\shibe\\.nuget\\packages\\grpc.core.api\\2.52.0\\grpc.core.api.2.52.0.nupkg.sha512",
+    "C:\\Users\\shibe\\.nuget\\packages\\grpc.net.client\\2.52.0\\grpc.net.client.2.52.0.nupkg.sha512",
+    "C:\\Users\\shibe\\.nuget\\packages\\grpc.net.common\\2.52.0\\grpc.net.common.2.52.0.nupkg.sha512",
+    "C:\\Users\\shibe\\.nuget\\packages\\grpc.tools\\2.52.0\\grpc.tools.2.52.0.nupkg.sha512",
+    "C:\\Users\\shibe\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.0.3\\microsoft.extensions.logging.abstractions.3.0.3.nupkg.sha512",
+    "C:\\Users\\shibe\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}

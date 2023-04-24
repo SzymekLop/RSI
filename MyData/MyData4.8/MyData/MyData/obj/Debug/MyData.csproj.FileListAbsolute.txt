@@ -1,0 +1,12 @@
+D:\Studia\Sem6\Rozproszone systemy informatyczne\MyData\MyData4.8\MyData\MyData\bin\Debug\MyData.exe.config
+D:\Studia\Sem6\Rozproszone systemy informatyczne\MyData\MyData4.8\MyData\MyData\bin\Debug\MyData.exe
+D:\Studia\Sem6\Rozproszone systemy informatyczne\MyData\MyData4.8\MyData\MyData\bin\Debug\MyData.pdb
+D:\Studia\Sem6\Rozproszone systemy informatyczne\MyData\MyData4.8\MyData\MyData\obj\Debug\MyData.csproj.AssemblyReference.cache
+D:\Studia\Sem6\Rozproszone systemy informatyczne\MyData\MyData4.8\MyData\MyData\obj\Debug\MyData.csproj.SuggestedBindingRedirects.cache
+D:\Studia\Sem6\Rozproszone systemy informatyczne\MyData\MyData4.8\MyData\MyData\obj\Debug\MyData.csproj.CoreCompileInputs.cache
+D:\Studia\Sem6\Rozproszone systemy informatyczne\MyData\MyData4.8\MyData\MyData\obj\Debug\MyData.exe
+D:\Studia\Sem6\Rozproszone systemy informatyczne\MyData\MyData4.8\MyData\MyData\obj\Debug\MyData.pdb
+D:\Studia\Sem6\Rozproszone systemy informatyczne\MyData\MyData4.8\MyData\MyData\bin\Debug\MyData.exe.manifest
+D:\Studia\Sem6\Rozproszone systemy informatyczne\MyData\MyData4.8\MyData\MyData\bin\Debug\MyData.application
+D:\Studia\Sem6\Rozproszone systemy informatyczne\MyData\MyData4.8\MyData\MyData\obj\Debug\MyData.exe.manifest
+D:\Studia\Sem6\Rozproszone systemy informatyczne\MyData\MyData4.8\MyData\MyData\obj\Debug\MyData.application

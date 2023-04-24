@@ -1,0 +1,8 @@
+D:\Studia\Sem6\Rozproszone systemy informatyczne\wcf\WcfClient\WcfClient\bin\Debug\WcfClient.exe.config
+D:\Studia\Sem6\Rozproszone systemy informatyczne\wcf\WcfClient\WcfClient\bin\Debug\WcfClient.exe
+D:\Studia\Sem6\Rozproszone systemy informatyczne\wcf\WcfClient\WcfClient\bin\Debug\WcfClient.pdb
+D:\Studia\Sem6\Rozproszone systemy informatyczne\wcf\WcfClient\WcfClient\obj\Debug\WcfClient.csproj.AssemblyReference.cache
+D:\Studia\Sem6\Rozproszone systemy informatyczne\wcf\WcfClient\WcfClient\obj\Debug\WcfClient.csproj.SuggestedBindingRedirects.cache
+D:\Studia\Sem6\Rozproszone systemy informatyczne\wcf\WcfClient\WcfClient\obj\Debug\WcfClient.csproj.CoreCompileInputs.cache
+D:\Studia\Sem6\Rozproszone systemy informatyczne\wcf\WcfClient\WcfClient\obj\Debug\WcfClient.exe
+D:\Studia\Sem6\Rozproszone systemy informatyczne\wcf\WcfClient\WcfClient\obj\Debug\WcfClient.pdb

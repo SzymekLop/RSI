@@ -1,0 +1,13 @@
+﻿{
+  "profiles": {
+    "GrpcServiceDistance": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "launchBrowser": false,
+      "applicationUrl": "http://localhost:5098;https://localhost:7086;http://192.168.43.18:2115",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}

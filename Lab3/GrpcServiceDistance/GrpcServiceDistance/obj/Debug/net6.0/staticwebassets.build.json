@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "SY2qZQzlFJituYQY2oy7AOVfSxgwmRC94mQz6mU9NUk=",
+  "Source": "GrpcServiceDistance",
+  "BasePath": "_content/GrpcServiceDistance",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

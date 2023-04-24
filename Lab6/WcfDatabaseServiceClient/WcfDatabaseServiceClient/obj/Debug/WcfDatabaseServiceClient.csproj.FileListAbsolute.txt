@@ -1,0 +1,8 @@
+D:\Studia\Sem6\Rozproszone systemy informatyczne\Lab6\WcfDatabaseServiceClient\WcfDatabaseServiceClient\bin\Debug\WcfDatabaseServiceClient.exe.config
+D:\Studia\Sem6\Rozproszone systemy informatyczne\Lab6\WcfDatabaseServiceClient\WcfDatabaseServiceClient\bin\Debug\WcfDatabaseServiceClient.exe
+D:\Studia\Sem6\Rozproszone systemy informatyczne\Lab6\WcfDatabaseServiceClient\WcfDatabaseServiceClient\bin\Debug\WcfDatabaseServiceClient.pdb
+D:\Studia\Sem6\Rozproszone systemy informatyczne\Lab6\WcfDatabaseServiceClient\WcfDatabaseServiceClient\obj\Debug\WcfDatabaseServiceClient.csproj.AssemblyReference.cache
+D:\Studia\Sem6\Rozproszone systemy informatyczne\Lab6\WcfDatabaseServiceClient\WcfDatabaseServiceClient\obj\Debug\WcfDatabaseServiceClient.csproj.SuggestedBindingRedirects.cache
+D:\Studia\Sem6\Rozproszone systemy informatyczne\Lab6\WcfDatabaseServiceClient\WcfDatabaseServiceClient\obj\Debug\WcfDatabaseServiceClient.csproj.CoreCompileInputs.cache
+D:\Studia\Sem6\Rozproszone systemy informatyczne\Lab6\WcfDatabaseServiceClient\WcfDatabaseServiceClient\obj\Debug\WcfDatabaseServiceClient.exe
+D:\Studia\Sem6\Rozproszone systemy informatyczne\Lab6\WcfDatabaseServiceClient\WcfDatabaseServiceClient\obj\Debug\WcfDatabaseServiceClient.pdb

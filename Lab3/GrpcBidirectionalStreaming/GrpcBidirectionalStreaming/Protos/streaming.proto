@@ -1,0 +1,26 @@
+syntax = "proto3";
+
+option csharp_namespace = "GrpcBidirectionalStreaming";
+
+service Streaming{
+
+    rpc StreamingPhoto (PhotoRequest) returns (stream PhotoResponse);
+    rpc StreamingPhotoUpload (stream PhotoUploadRequest) returns (PhotoUploadResponse);
+}
+
+message PhotoRequest {
+    string name = 1;
+}
+
+message PhotoResponse{
+    bytes data = 1;
+}
+
+message PhotoUploadRequest{
+    string name = 1;
+    bytes data = 2;
+}
+
+message PhotoUploadResponse{
+    string info = 1;
+}

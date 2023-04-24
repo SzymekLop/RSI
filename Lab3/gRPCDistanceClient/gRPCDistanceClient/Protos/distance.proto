@@ -1,0 +1,29 @@
+syntax = "proto3";
+
+option csharp_namespace = "gRPCDistanceClient";
+
+
+service Distance{
+	rpc CalculateDistance(TwoCityRequest) returns (DistanceReply);
+	rpc CalculateDistanceThrought(ThreeCityRequest) returns (DistanceReply);
+}
+
+message TwoCityRequest {
+	double latitude1 = 1;
+	double longitude1 = 2;
+	double latitude2 = 3;
+	double longitude2 = 4;
+}
+
+message ThreeCityRequest {
+	double latitude1 = 1;
+	double longitude1 = 2;
+	double latitude2 = 3;
+	double longitude2 = 4;
+	double latitude3 = 5;
+	double longitude3 = 6;
+}
+
+message DistanceReply{
+	double distance = 1;
+}

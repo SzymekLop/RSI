@@ -1,0 +1,13 @@
+﻿{
+  "profiles": {
+    "GrpcBidirectionalStreaming": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "launchBrowser": false,
+      "applicationUrl": "http://localhost:5039;https://localhost:7186;http://192.168.43.18:2115",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}

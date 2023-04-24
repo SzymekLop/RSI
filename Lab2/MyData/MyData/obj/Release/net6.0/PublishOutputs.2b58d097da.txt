@@ -1,0 +1,5 @@
+D:\Studia\Sem6\Rozproszone systemy informatyczne\Lab2\MyData\MyData\bin\Realese\MyData.exe
+D:\Studia\Sem6\Rozproszone systemy informatyczne\Lab2\MyData\MyData\bin\Realese\MyData.dll
+D:\Studia\Sem6\Rozproszone systemy informatyczne\Lab2\MyData\MyData\bin\Realese\MyData.deps.json
+D:\Studia\Sem6\Rozproszone systemy informatyczne\Lab2\MyData\MyData\bin\Realese\MyData.runtimeconfig.json
+D:\Studia\Sem6\Rozproszone systemy informatyczne\Lab2\MyData\MyData\bin\Realese\MyData.pdb

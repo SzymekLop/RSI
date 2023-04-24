@@ -1,0 +1,5 @@
+D:\Studia\Sem6\Rozproszone systemy informatyczne\Lab2\Data\Data\bin\Release\net6.0\publish\Data.exe
+D:\Studia\Sem6\Rozproszone systemy informatyczne\Lab2\Data\Data\bin\Release\net6.0\publish\Data.dll
+D:\Studia\Sem6\Rozproszone systemy informatyczne\Lab2\Data\Data\bin\Release\net6.0\publish\Data.deps.json
+D:\Studia\Sem6\Rozproszone systemy informatyczne\Lab2\Data\Data\bin\Release\net6.0\publish\Data.runtimeconfig.json
+D:\Studia\Sem6\Rozproszone systemy informatyczne\Lab2\Data\Data\bin\Release\net6.0\publish\Data.pdb

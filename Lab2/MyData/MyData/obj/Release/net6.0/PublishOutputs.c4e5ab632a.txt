@@ -1,0 +1,5 @@
+D:\Studia\Sem6\Rozproszone systemy informatyczne\MyData\MyData.exe
+D:\Studia\Sem6\Rozproszone systemy informatyczne\MyData\MyData.dll
+D:\Studia\Sem6\Rozproszone systemy informatyczne\MyData\MyData.deps.json
+D:\Studia\Sem6\Rozproszone systemy informatyczne\MyData\MyData.runtimeconfig.json
+D:\Studia\Sem6\Rozproszone systemy informatyczne\MyData\MyData.pdb

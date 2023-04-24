@@ -1,0 +1,15 @@
+D:\Studia\Sem6\Rozproszone systemy informatyczne\Lab2\MyData\MyData\bin\Release\net6.0\MyData.exe
+D:\Studia\Sem6\Rozproszone systemy informatyczne\Lab2\MyData\MyData\bin\Release\net6.0\MyData.deps.json
+D:\Studia\Sem6\Rozproszone systemy informatyczne\Lab2\MyData\MyData\bin\Release\net6.0\MyData.runtimeconfig.json
+D:\Studia\Sem6\Rozproszone systemy informatyczne\Lab2\MyData\MyData\bin\Release\net6.0\MyData.pdb
+D:\Studia\Sem6\Rozproszone systemy informatyczne\Lab2\MyData\MyData\obj\Release\net6.0\MyData.csproj.AssemblyReference.cache
+D:\Studia\Sem6\Rozproszone systemy informatyczne\Lab2\MyData\MyData\obj\Release\net6.0\MyData.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studia\Sem6\Rozproszone systemy informatyczne\Lab2\MyData\MyData\obj\Release\net6.0\MyData.AssemblyInfoInputs.cache
+D:\Studia\Sem6\Rozproszone systemy informatyczne\Lab2\MyData\MyData\obj\Release\net6.0\MyData.AssemblyInfo.cs
+D:\Studia\Sem6\Rozproszone systemy informatyczne\Lab2\MyData\MyData\obj\Release\net6.0\MyData.csproj.CoreCompileInputs.cache
+D:\Studia\Sem6\Rozproszone systemy informatyczne\Lab2\MyData\MyData\obj\Release\net6.0\MyData.dll
+D:\Studia\Sem6\Rozproszone systemy informatyczne\Lab2\MyData\MyData\obj\Release\net6.0\refint\MyData.dll
+D:\Studia\Sem6\Rozproszone systemy informatyczne\Lab2\MyData\MyData\obj\Release\net6.0\MyData.pdb
+D:\Studia\Sem6\Rozproszone systemy informatyczne\Lab2\MyData\MyData\obj\Release\net6.0\MyData.genruntimeconfig.cache
+D:\Studia\Sem6\Rozproszone systemy informatyczne\Lab2\MyData\MyData\obj\Release\net6.0\ref\MyData.dll
+D:\Studia\Sem6\Rozproszone systemy informatyczne\Lab2\MyData\MyData\bin\Release\net6.0\MyData.dll
