@@ -12,7 +12,11 @@ namespace WcfService
     ConcurrencyMode = ConcurrencyMode.Multiple)]
     public class DatabaseService : IDatabaseService
     {
-        private ArrayList _users = new ArrayList();
+        private ArrayList _users = new ArrayList
+            {
+                new User { Id = 0, Name = "Aleksandra Wolska", Age = 22 },
+                new User { Id = 1, Name = "Szymon Łopuszyński", Age = 22 }
+            };
 
         private bool contains(User user)
         {
@@ -64,9 +68,9 @@ namespace WcfService
 
         public async Task<ArrayList> getAllUsersSleep()
         {
-            Console.Write("All user async start");
-            await Task.Delay(3000);
-            Console.Write("All user async end");
+            Console.WriteLine("All user async start");
+            await Task.Delay(15000);
+            Console.WriteLine("All user async end");
             return _users;
         }
 

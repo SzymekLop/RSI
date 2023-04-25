@@ -43,10 +43,5 @@ namespace WcfService
 
         [DataMember]
         public int Age { get; set; }
-
-        public string toString()
-        {
-            return Id + " " + Name + " " + Age;
-        }
     }
 }

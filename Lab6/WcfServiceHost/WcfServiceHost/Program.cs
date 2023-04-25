@@ -11,23 +11,14 @@ namespace WcfServiceHost
         static void Main(string[] args)
         {
             MyData.MyData.info();
-            //Uri baseAddress = new Uri("http://192.168.43.18:10000/DatabaseService");
-            Uri baseAddress = new Uri("http://localhost:10000/DatabaseService");
+            Uri baseAddress = new Uri("http://192.168.43.18:10000/DatabaseService");
+            //Uri baseAddress = new Uri("http://localhost:10000/DatabaseService");
             ServiceHost myHost = new ServiceHost(typeof(DatabaseService), baseAddress);
 
             BasicHttpBinding myBinding = new BasicHttpBinding();
-            myBinding.OpenTimeout = new TimeSpan(0, 0, 30);
-            myBinding.CloseTimeout = new TimeSpan(0, 0, 30);
-            myBinding.SendTimeout = new TimeSpan(0, 0, 30);
-            myBinding.ReceiveTimeout = new TimeSpan(0, 0, 30);
-            Console.WriteLine(myBinding.ReceiveTimeout.ToString());
             ServiceEndpoint endpoint1 = myHost.AddServiceEndpoint(typeof(IDatabaseService), myBinding, "endpoint1");
 
             WSHttpBinding binding2 = new WSHttpBinding();
-            binding2.OpenTimeout = new TimeSpan(0, 0, 30);
-            binding2.CloseTimeout = new TimeSpan(0, 0, 30);
-            binding2.SendTimeout = new TimeSpan(0, 0, 30);
-            binding2.ReceiveTimeout = new TimeSpan(0, 0, 30);
             binding2.Security.Mode = SecurityMode.None;
             ServiceEndpoint endpoint2 = myHost.AddServiceEndpoint(typeof(IDatabaseService), binding2, "endpoint2");
 
