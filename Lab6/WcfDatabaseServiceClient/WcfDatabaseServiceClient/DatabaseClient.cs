@@ -11,9 +11,7 @@ namespace WcfDatabaseServiceClient
 
         public DatabaseClient(string binding = "WSHttpBinding_IDatabaseService")
         {
-
             client = new DatabaseServiceClient(binding);
-            client.InnerChannel.OperationTimeout = new TimeSpan(0, 0, 1);
         }
 
         public void CloseConnection()

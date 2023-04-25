@@ -10,6 +10,8 @@ namespace WcfDatabaseServiceClient
     {
         static void Main(string[] args)
         {
+
+            MyData.MyData.info();
             DatabaseClient client = new DatabaseClient();
             int choice = 0;
 
