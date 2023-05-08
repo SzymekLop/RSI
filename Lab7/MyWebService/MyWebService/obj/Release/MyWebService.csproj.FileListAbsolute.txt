@@ -1,0 +1,7 @@
+D:\Studia\Sem6\Rozproszone systemy informatyczne\Lab7\MyWebService\MyWebService\bin\MyWebService.dll.config
+D:\Studia\Sem6\Rozproszone systemy informatyczne\Lab7\MyWebService\MyWebService\bin\MyWebService.dll
+D:\Studia\Sem6\Rozproszone systemy informatyczne\Lab7\MyWebService\MyWebService\bin\MyWebService.pdb
+D:\Studia\Sem6\Rozproszone systemy informatyczne\Lab7\MyWebService\MyWebService\obj\Release\MyWebService.csproj.AssemblyReference.cache
+D:\Studia\Sem6\Rozproszone systemy informatyczne\Lab7\MyWebService\MyWebService\obj\Release\MyWebService.csproj.CoreCompileInputs.cache
+D:\Studia\Sem6\Rozproszone systemy informatyczne\Lab7\MyWebService\MyWebService\obj\Release\MyWebService.dll
+D:\Studia\Sem6\Rozproszone systemy informatyczne\Lab7\MyWebService\MyWebService\obj\Release\MyWebService.pdb
