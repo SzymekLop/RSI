@@ -1,0 +1,8 @@
+D:\Studia\Sem6\Rozproszone systemy informatyczne\Lab7\RestClient\RestClient\obj\Debug\RestClient.csproj.AssemblyReference.cache
+D:\Studia\Sem6\Rozproszone systemy informatyczne\Lab7\RestClient\RestClient\obj\Debug\RestClient.csproj.SuggestedBindingRedirects.cache
+D:\Studia\Sem6\Rozproszone systemy informatyczne\Lab7\RestClient\RestClient\obj\Debug\RestClient.csproj.CoreCompileInputs.cache
+D:\Studia\Sem6\Rozproszone systemy informatyczne\Lab7\RestClient\RestClient\bin\Debug\RestClient.exe.config
+D:\Studia\Sem6\Rozproszone systemy informatyczne\Lab7\RestClient\RestClient\bin\Debug\RestClient.exe
+D:\Studia\Sem6\Rozproszone systemy informatyczne\Lab7\RestClient\RestClient\bin\Debug\RestClient.pdb
+D:\Studia\Sem6\Rozproszone systemy informatyczne\Lab7\RestClient\RestClient\obj\Debug\RestClient.exe
+D:\Studia\Sem6\Rozproszone systemy informatyczne\Lab7\RestClient\RestClient\obj\Debug\RestClient.pdb

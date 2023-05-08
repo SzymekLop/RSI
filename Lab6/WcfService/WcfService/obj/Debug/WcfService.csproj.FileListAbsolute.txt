@@ -1,7 +1,0 @@
-D:\Studia\Sem6\Rozproszone systemy informatyczne\Lab6\WcfService\WcfService\bin\Debug\WcfService.dll.config
-D:\Studia\Sem6\Rozproszone systemy informatyczne\Lab6\WcfService\WcfService\bin\Debug\WcfService.dll
-D:\Studia\Sem6\Rozproszone systemy informatyczne\Lab6\WcfService\WcfService\bin\Debug\WcfService.pdb
-D:\Studia\Sem6\Rozproszone systemy informatyczne\Lab6\WcfService\WcfService\obj\Debug\WcfService.csproj.AssemblyReference.cache
-D:\Studia\Sem6\Rozproszone systemy informatyczne\Lab6\WcfService\WcfService\obj\Debug\WcfService.csproj.CoreCompileInputs.cache
-D:\Studia\Sem6\Rozproszone systemy informatyczne\Lab6\WcfService\WcfService\obj\Debug\WcfService.dll
-D:\Studia\Sem6\Rozproszone systemy informatyczne\Lab6\WcfService\WcfService\obj\Debug\WcfService.pdb
