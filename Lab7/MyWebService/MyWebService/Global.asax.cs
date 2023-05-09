@@ -12,7 +12,7 @@ namespace MyWebService
 
         protected void Application_Start(object sender, EventArgs e)
         {
-
+            MyData.MyData.info();
         }
 
         protected void Session_Start(object sender, EventArgs e)
