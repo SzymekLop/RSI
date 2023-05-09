@@ -6,3 +6,15 @@ D:\Studia\Sem6\Rozproszone systemy informatyczne\Lab7\RestClient\RestClient\bin\
 D:\Studia\Sem6\Rozproszone systemy informatyczne\Lab7\RestClient\RestClient\bin\Debug\RestClient.pdb
 D:\Studia\Sem6\Rozproszone systemy informatyczne\Lab7\RestClient\RestClient\obj\Debug\RestClient.exe
 D:\Studia\Sem6\Rozproszone systemy informatyczne\Lab7\RestClient\RestClient\obj\Debug\RestClient.pdb
+C:\Users\Aleksandra\Desktop\Polibuda\RSI\REPO\RSI\Lab7\RestClient\RestClient\bin\Debug\RestClient.exe.config
+C:\Users\Aleksandra\Desktop\Polibuda\RSI\REPO\RSI\Lab7\RestClient\RestClient\bin\Debug\RestClient.exe
+C:\Users\Aleksandra\Desktop\Polibuda\RSI\REPO\RSI\Lab7\RestClient\RestClient\bin\Debug\RestClient.pdb
+C:\Users\Aleksandra\Desktop\Polibuda\RSI\REPO\RSI\Lab7\RestClient\RestClient\bin\Debug\MyData.exe
+C:\Users\Aleksandra\Desktop\Polibuda\RSI\REPO\RSI\Lab7\RestClient\RestClient\bin\Debug\MyData.pdb
+C:\Users\Aleksandra\Desktop\Polibuda\RSI\REPO\RSI\Lab7\RestClient\RestClient\bin\Debug\MyData.exe.config
+C:\Users\Aleksandra\Desktop\Polibuda\RSI\REPO\RSI\Lab7\RestClient\RestClient\obj\Debug\RestClient.csproj.AssemblyReference.cache
+C:\Users\Aleksandra\Desktop\Polibuda\RSI\REPO\RSI\Lab7\RestClient\RestClient\obj\Debug\RestClient.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aleksandra\Desktop\Polibuda\RSI\REPO\RSI\Lab7\RestClient\RestClient\obj\Debug\RestClient.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandra\Desktop\Polibuda\RSI\REPO\RSI\Lab7\RestClient\RestClient\obj\Debug\RestClient.csproj.CopyComplete
+C:\Users\Aleksandra\Desktop\Polibuda\RSI\REPO\RSI\Lab7\RestClient\RestClient\obj\Debug\RestClient.exe
+C:\Users\Aleksandra\Desktop\Polibuda\RSI\REPO\RSI\Lab7\RestClient\RestClient\obj\Debug\RestClient.pdb
