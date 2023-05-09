@@ -17,13 +17,15 @@ namespace RestClient
             string put = "PUT";
             string delete = "DELETE";
 
+            MyData.MyData.info();
+
             MyRestClient client = new MyRestClient();
 
             int choice = 0;
 
             do
             {
-                Console.WriteLine("Wybierz operacje:");
+                Console.WriteLine("\n---------------------------------------\nWybierz operacje:\n-------------------------------------\n");
                 Console.WriteLine("XML");
                 Console.WriteLine("    1. Wszyscy ludzie");
                 Console.WriteLine("    2. Jedna osoba");
