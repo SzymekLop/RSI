@@ -13,7 +13,6 @@ namespace RestClient
     {
         private static readonly string ADDRESS = "http://192.168.43.18:10000/Service1.svc/";
 
-
         public void processRequest(string endpoint, string method, string type)
         {
             try
