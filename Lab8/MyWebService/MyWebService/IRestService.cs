@@ -64,11 +64,11 @@ namespace MyWebService
         string addJson(Person item);
 
         [OperationContract]
-        [WebInvoke(UriTemplate = "/json/people{id}", Method = "DELETE", ResponseFormat = WebMessageFormat.Json)]
+        [WebInvoke(UriTemplate = "/json/people/{id}", Method = "DELETE", ResponseFormat = WebMessageFormat.Json)]
         string deleteJson(string Id);
 
         [OperationContract]
-        [WebInvoke(UriTemplate = "/json/people{id}", Method = "PUT", RequestFormat = WebMessageFormat.Json, ResponseFormat = WebMessageFormat.Json)]
+        [WebInvoke(UriTemplate = "/json/people/{id}", Method = "PUT", RequestFormat = WebMessageFormat.Json, ResponseFormat = WebMessageFormat.Json)]
         string updateJson(string Id, Person person);
 
         [OperationContract]
