@@ -86,6 +86,14 @@ namespace MyWebService
         [OperationContract]
         [WebGet(UriTemplate = "/json/people/insuranceClass/{insuranceClass}", ResponseFormat = WebMessageFormat.Json)]
         List<Person> getFilteredByInsuranceClassJson(string InsuranceClass);
+
+        [OperationContract]
+        [WebGet(UriTemplate = "/people/authors", ResponseFormat = WebMessageFormat.Xml)]
+        String getAuthorsXml();
+
+        [OperationContract]
+        [WebGet(UriTemplate = "/json/people/authors", ResponseFormat = WebMessageFormat.Json)]
+        String getAuthorsJson();
     }
 
     [DataContract]

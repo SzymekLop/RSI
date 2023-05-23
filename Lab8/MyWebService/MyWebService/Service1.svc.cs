@@ -18,9 +18,9 @@ namespace MyWebService
         private static int _id = 3;
         private static List<Person> _people = new List<Person>()
         {
-            new Person() { Id = 0, Name = "Aleksandra Wolska", Age = 23, Email = "wschodzaca@gmail.com", IsInsured = true, IncuranceClass = 'A'},
-            new Person() { Id = 1, Name = "szymon Łopuszyński", Age = 22, Email = "szym3k@op.pl", IsInsured = false, IncuranceClass = 'X'},
-            new Person() { Id = 2, Name = "Jan Kowalski", Age = 13, Email = "kowal@wp.pl", IsInsured = true, IncuranceClass = 'A'}
+            new Person() { Id = 0, Name = "Aleksandra Wolska", Age = 23, Email = "wschodzaca@gmail.com", IsInsured = true, IncuranceClass = '1'},
+            new Person() { Id = 1, Name = "szymon Łopuszyński", Age = 22, Email = "szym3k@op.pl", IsInsured = false, IncuranceClass = '2'},
+            new Person() { Id = 2, Name = "Jan Kowalski", Age = 13, Email = "kowal@wp.pl", IsInsured = true, IncuranceClass = '1'}
         };
         public List<Person> getAllXml()
         {
@@ -61,6 +61,13 @@ namespace MyWebService
             {
                 throw new WebFaultException<string>("400: BadRequest", HttpStatusCode.BadRequest);
             }
+            foreach (Person p in _people)
+            {
+                if (p.Email.Equals(person.Email))
+                {
+                    throw new WebFaultException<string>("Email already used", HttpStatusCode.Conflict);
+                }
+            }
             person.Id = _id++;
             _people.Add(person);
             return "Added new person: " + person.Id + " " + person.Name + " age: " + person.Age + " " + person.Email;
@@ -71,6 +78,12 @@ namespace MyWebService
             if (person == null)
             {
                 throw new WebFaultException<string>("400: BadRequest", HttpStatusCode.BadRequest);
+            }
+            foreach(Person p in _people){
+                if (p.Email.Equals(person.Email))
+                {
+                    throw new WebFaultException<string>("Email already used", HttpStatusCode.Conflict);
+                }
             }
             person.Id = _id++;
             _people.Add(person);
@@ -111,6 +124,13 @@ namespace MyWebService
             {
                 throw new WebFaultException<string>("404: Not Found", HttpStatusCode.NotFound);
             }
+            foreach (Person p in _people)
+            {
+                if (p.Email.Equals(person.Email))
+                {
+                    throw new WebFaultException<string>("Email already used", HttpStatusCode.Conflict);
+                }
+            }
             Person personToEdit = _people.ElementAt(index);
             personToEdit.Name = person.Name;
             personToEdit.Age = person.Age;
@@ -126,6 +146,13 @@ namespace MyWebService
             if (index == -1)
             {
                 throw new WebFaultException<string>("404: Not Found", HttpStatusCode.NotFound);
+            }
+            foreach (Person p in _people)
+            {
+                if (p.Email.Equals(person.Email))
+                {
+                    throw new WebFaultException<string>("Email already used", HttpStatusCode.Conflict);
+                }
             }
             Person personToEdit = _people.ElementAt(index);
             personToEdit.Name = person.Name;
@@ -201,6 +228,15 @@ namespace MyWebService
         public List<Person> getFilteredByInsuranceClassJson(string InsurenceClass)
         {
             return _people.FindAll(person => person.IncuranceClass == InsurenceClass.ElementAt(0));
+        }
+
+        public string getAuthorsXml()
+        {
+            return "Aleksandra Wolska 251810, Szymon Łopuszyński 260454";
+        }
+        public string getAuthorsJson()
+        {
+            return "Aleksandra Wolska 251810, Szymon Łopuszyński 260454";
         }
     }
 }
