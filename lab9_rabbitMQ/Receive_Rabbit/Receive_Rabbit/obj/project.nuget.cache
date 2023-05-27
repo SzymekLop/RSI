@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "p/5CfU1mtkpYvv5/LH5YRyrJ0MycRrRRoP5rqGEVhcAl/Z3PqB0kmj9U0P03G09eevrLw4MTWSJr2fm4yV87Zg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Aleksandra\\source\\repos\\Receive_Rabbit\\Receive_Rabbit\\Receive_Rabbit.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aleksandra\\.nuget\\packages\\rabbitmq.client\\6.5.0\\rabbitmq.client.6.5.0.nupkg.sha512",
+    "C:\\Users\\Aleksandra\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\Aleksandra\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,69 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Aleksandra\\source\\repos\\Receive_Rabbit\\Receive_Rabbit\\Receive_Rabbit.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Aleksandra\\source\\repos\\Receive_Rabbit\\Receive_Rabbit\\Receive_Rabbit.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Aleksandra\\source\\repos\\Receive_Rabbit\\Receive_Rabbit\\Receive_Rabbit.csproj",
+        "projectName": "Receive_Rabbit",
+        "projectPath": "C:\\Users\\Aleksandra\\source\\repos\\Receive_Rabbit\\Receive_Rabbit\\Receive_Rabbit.csproj",
+        "packagesPath": "C:\\Users\\Aleksandra\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Aleksandra\\source\\repos\\Receive_Rabbit\\Receive_Rabbit\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Aleksandra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
