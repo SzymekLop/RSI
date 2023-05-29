@@ -127,11 +127,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Aleksandra\\source\\repos\\Send_Rabbit\\Send_Rabbit\\Send_Rabbit.csproj",
+      "projectUniqueName": "C:\\Users\\Aleksandra\\Desktop\\Polibuda\\RSI\\REPO\\RSI\\lab9_rabbitMQ\\Send_Rabbit\\Send_Rabbit\\Send_Rabbit.csproj",
       "projectName": "Send_Rabbit",
-      "projectPath": "C:\\Users\\Aleksandra\\source\\repos\\Send_Rabbit\\Send_Rabbit\\Send_Rabbit.csproj",
+      "projectPath": "C:\\Users\\Aleksandra\\Desktop\\Polibuda\\RSI\\REPO\\RSI\\lab9_rabbitMQ\\Send_Rabbit\\Send_Rabbit\\Send_Rabbit.csproj",
       "packagesPath": "C:\\Users\\Aleksandra\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Aleksandra\\source\\repos\\Send_Rabbit\\Send_Rabbit\\obj\\",
+      "outputPath": "C:\\Users\\Aleksandra\\Desktop\\Polibuda\\RSI\\REPO\\RSI\\lab9_rabbitMQ\\Send_Rabbit\\Send_Rabbit\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Aleksandra\\AppData\\Roaming\\NuGet\\NuGet.Config",

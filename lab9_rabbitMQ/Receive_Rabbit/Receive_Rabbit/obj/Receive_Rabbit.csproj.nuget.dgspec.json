@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Aleksandra\\source\\repos\\Receive_Rabbit\\Receive_Rabbit\\Receive_Rabbit.csproj": {}
+    "C:\\Users\\Aleksandra\\Desktop\\Polibuda\\RSI\\REPO\\RSI\\lab9_rabbitMQ\\Receive_Rabbit\\Receive_Rabbit\\Receive_Rabbit.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Aleksandra\\source\\repos\\Receive_Rabbit\\Receive_Rabbit\\Receive_Rabbit.csproj": {
+    "C:\\Users\\Aleksandra\\Desktop\\Polibuda\\RSI\\REPO\\RSI\\lab9_rabbitMQ\\Receive_Rabbit\\Receive_Rabbit\\Receive_Rabbit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aleksandra\\source\\repos\\Receive_Rabbit\\Receive_Rabbit\\Receive_Rabbit.csproj",
+        "projectUniqueName": "C:\\Users\\Aleksandra\\Desktop\\Polibuda\\RSI\\REPO\\RSI\\lab9_rabbitMQ\\Receive_Rabbit\\Receive_Rabbit\\Receive_Rabbit.csproj",
         "projectName": "Receive_Rabbit",
-        "projectPath": "C:\\Users\\Aleksandra\\source\\repos\\Receive_Rabbit\\Receive_Rabbit\\Receive_Rabbit.csproj",
+        "projectPath": "C:\\Users\\Aleksandra\\Desktop\\Polibuda\\RSI\\REPO\\RSI\\lab9_rabbitMQ\\Receive_Rabbit\\Receive_Rabbit\\Receive_Rabbit.csproj",
         "packagesPath": "C:\\Users\\Aleksandra\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aleksandra\\source\\repos\\Receive_Rabbit\\Receive_Rabbit\\obj\\",
+        "outputPath": "C:\\Users\\Aleksandra\\Desktop\\Polibuda\\RSI\\REPO\\RSI\\lab9_rabbitMQ\\Receive_Rabbit\\Receive_Rabbit\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Aleksandra\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,12 @@
 ﻿using System.Text;
+using System.Text.RegularExpressions;
 using RabbitMQ.Client;
 
-var factory = new ConnectionFactory { HostName = "localhost" };
+var factory = new ConnectionFactory { HostName = "192.168.0.103" };
 
+factory.Port = 5672;
+factory.UserName = "szymek";
+factory.Password = "szymek";
 using (var connection = factory.CreateConnection())
 using (var channel = connection.CreateModel())
 {

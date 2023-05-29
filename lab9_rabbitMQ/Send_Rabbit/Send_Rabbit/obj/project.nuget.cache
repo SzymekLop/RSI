@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OJ2kAPzlAirTJmoCXmmdAe91ELCoA9akS+K6TSnMtpNu6r7/hi60983RcKFk5lV3gpQzxxpKVNbadtFxfiKiYw==",
+  "dgSpecHash": "0wsrD5zu6K05JKSwBgrvgYqmIZg8jHvuS9YW0l6nfzUlStlH1igDtRtHm7FadvDPFdAxRXWUAGyP9tqrxhSmXA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Aleksandra\\source\\repos\\Send_Rabbit\\Send_Rabbit\\Send_Rabbit.csproj",
+  "projectFilePath": "C:\\Users\\Aleksandra\\Desktop\\Polibuda\\RSI\\REPO\\RSI\\lab9_rabbitMQ\\Send_Rabbit\\Send_Rabbit\\Send_Rabbit.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Aleksandra\\.nuget\\packages\\rabbitmq.client\\6.5.0\\rabbitmq.client.6.5.0.nupkg.sha512",
     "C:\\Users\\Aleksandra\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
