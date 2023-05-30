@@ -1,0 +1,15 @@
+D:\Studia\Sem6\Rozproszone systemy informatyczne\MyData\MyData7.0\MyData\MyData\bin\Debug\net7.0\MyData.exe
+D:\Studia\Sem6\Rozproszone systemy informatyczne\MyData\MyData7.0\MyData\MyData\bin\Debug\net7.0\MyData.deps.json
+D:\Studia\Sem6\Rozproszone systemy informatyczne\MyData\MyData7.0\MyData\MyData\bin\Debug\net7.0\MyData.runtimeconfig.json
+D:\Studia\Sem6\Rozproszone systemy informatyczne\MyData\MyData7.0\MyData\MyData\bin\Debug\net7.0\MyData.dll
+D:\Studia\Sem6\Rozproszone systemy informatyczne\MyData\MyData7.0\MyData\MyData\bin\Debug\net7.0\MyData.pdb
+D:\Studia\Sem6\Rozproszone systemy informatyczne\MyData\MyData7.0\MyData\MyData\obj\Debug\net7.0\MyData.csproj.AssemblyReference.cache
+D:\Studia\Sem6\Rozproszone systemy informatyczne\MyData\MyData7.0\MyData\MyData\obj\Debug\net7.0\MyData.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studia\Sem6\Rozproszone systemy informatyczne\MyData\MyData7.0\MyData\MyData\obj\Debug\net7.0\MyData.AssemblyInfoInputs.cache
+D:\Studia\Sem6\Rozproszone systemy informatyczne\MyData\MyData7.0\MyData\MyData\obj\Debug\net7.0\MyData.AssemblyInfo.cs
+D:\Studia\Sem6\Rozproszone systemy informatyczne\MyData\MyData7.0\MyData\MyData\obj\Debug\net7.0\MyData.csproj.CoreCompileInputs.cache
+D:\Studia\Sem6\Rozproszone systemy informatyczne\MyData\MyData7.0\MyData\MyData\obj\Debug\net7.0\MyData.dll
+D:\Studia\Sem6\Rozproszone systemy informatyczne\MyData\MyData7.0\MyData\MyData\obj\Debug\net7.0\refint\MyData.dll
+D:\Studia\Sem6\Rozproszone systemy informatyczne\MyData\MyData7.0\MyData\MyData\obj\Debug\net7.0\MyData.pdb
+D:\Studia\Sem6\Rozproszone systemy informatyczne\MyData\MyData7.0\MyData\MyData\obj\Debug\net7.0\MyData.genruntimeconfig.cache
+D:\Studia\Sem6\Rozproszone systemy informatyczne\MyData\MyData7.0\MyData\MyData\obj\Debug\net7.0\ref\MyData.dll
