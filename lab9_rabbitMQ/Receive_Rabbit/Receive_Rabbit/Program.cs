@@ -2,7 +2,11 @@
 using RabbitMQ.Client;
 using RabbitMQ.Client.Events;
 
-var factory = new ConnectionFactory { HostName = "localhost" };
+var factory = new ConnectionFactory { HostName = "192.168.43.194" };
+
+factory.Port = 5672;
+factory.UserName = "ola";
+factory.Password = "ola";
 using var connection = factory.CreateConnection();
 using var channel = connection.CreateModel();
 
