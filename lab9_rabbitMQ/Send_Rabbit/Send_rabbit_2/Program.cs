@@ -33,9 +33,17 @@ namespace Send_rabbit_2
                 var message = "Hello World!";
                 var body = Encoding.UTF8.GetBytes(message);
                 Console.WriteLine("You entered: " + message);
+
+                var properties = channel.CreateBasicProperties();
+                properties.Headers = new Dictionary<string, object>
+                {
+                    { "SenderId", "0" }
+                };
+
+
                 channel.BasicPublish(exchange: string.Empty,
                              routingKey: "hello",
-                             basicProperties: null,
+                             basicProperties: properties,
                              body: body);
                 Console.WriteLine($" [x] Sent {message}");
 
@@ -66,7 +74,7 @@ namespace Send_rabbit_2
                     var bodyLoop = Encoding.UTF8.GetBytes("Ola " + i);
                     channel.BasicPublish(exchange: string.Empty,
                                  routingKey: "hello-world",
-                                 basicProperties: null,
+                                 basicProperties: properties,
                                  body: bodyLoop);
                     Console.WriteLine($"Wysłano Ola " + i);
 
