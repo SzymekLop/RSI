@@ -32,3 +32,20 @@ C:\Users\Aleksandra\Desktop\Polibuda\RSI\REPO\RSI\lab9_rabbitMQ\Receive_Rabbit\R
 C:\Users\Aleksandra\Desktop\Polibuda\RSI\REPO\RSI\lab9_rabbitMQ\Receive_Rabbit\Receive_Rabbit\obj\Debug\net7.0\Receive_Rabbit.pdb
 C:\Users\Aleksandra\Desktop\Polibuda\RSI\REPO\RSI\lab9_rabbitMQ\Receive_Rabbit\Receive_Rabbit\obj\Debug\net7.0\Receive_Rabbit.genruntimeconfig.cache
 C:\Users\Aleksandra\Desktop\Polibuda\RSI\REPO\RSI\lab9_rabbitMQ\Receive_Rabbit\Receive_Rabbit\obj\Debug\net7.0\ref\Receive_Rabbit.dll
+D:\Studia\Sem6\Rozproszone systemy informatyczne\lab9_rabbitMQ\Receive_Rabbit\Receive_Rabbit\bin\Debug\net7.0\Receive_Rabbit.exe
+D:\Studia\Sem6\Rozproszone systemy informatyczne\lab9_rabbitMQ\Receive_Rabbit\Receive_Rabbit\bin\Debug\net7.0\Receive_Rabbit.deps.json
+D:\Studia\Sem6\Rozproszone systemy informatyczne\lab9_rabbitMQ\Receive_Rabbit\Receive_Rabbit\bin\Debug\net7.0\Receive_Rabbit.runtimeconfig.json
+D:\Studia\Sem6\Rozproszone systemy informatyczne\lab9_rabbitMQ\Receive_Rabbit\Receive_Rabbit\bin\Debug\net7.0\Receive_Rabbit.dll
+D:\Studia\Sem6\Rozproszone systemy informatyczne\lab9_rabbitMQ\Receive_Rabbit\Receive_Rabbit\bin\Debug\net7.0\Receive_Rabbit.pdb
+D:\Studia\Sem6\Rozproszone systemy informatyczne\lab9_rabbitMQ\Receive_Rabbit\Receive_Rabbit\bin\Debug\net7.0\RabbitMQ.Client.dll
+D:\Studia\Sem6\Rozproszone systemy informatyczne\lab9_rabbitMQ\Receive_Rabbit\Receive_Rabbit\obj\Debug\net7.0\Receive_Rabbit.csproj.AssemblyReference.cache
+D:\Studia\Sem6\Rozproszone systemy informatyczne\lab9_rabbitMQ\Receive_Rabbit\Receive_Rabbit\obj\Debug\net7.0\Receive_Rabbit.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studia\Sem6\Rozproszone systemy informatyczne\lab9_rabbitMQ\Receive_Rabbit\Receive_Rabbit\obj\Debug\net7.0\Receive_Rabbit.AssemblyInfoInputs.cache
+D:\Studia\Sem6\Rozproszone systemy informatyczne\lab9_rabbitMQ\Receive_Rabbit\Receive_Rabbit\obj\Debug\net7.0\Receive_Rabbit.AssemblyInfo.cs
+D:\Studia\Sem6\Rozproszone systemy informatyczne\lab9_rabbitMQ\Receive_Rabbit\Receive_Rabbit\obj\Debug\net7.0\Receive_Rabbit.csproj.CoreCompileInputs.cache
+D:\Studia\Sem6\Rozproszone systemy informatyczne\lab9_rabbitMQ\Receive_Rabbit\Receive_Rabbit\obj\Debug\net7.0\Receive_Rabbit.csproj.CopyComplete
+D:\Studia\Sem6\Rozproszone systemy informatyczne\lab9_rabbitMQ\Receive_Rabbit\Receive_Rabbit\obj\Debug\net7.0\Receive_Rabbit.dll
+D:\Studia\Sem6\Rozproszone systemy informatyczne\lab9_rabbitMQ\Receive_Rabbit\Receive_Rabbit\obj\Debug\net7.0\refint\Receive_Rabbit.dll
+D:\Studia\Sem6\Rozproszone systemy informatyczne\lab9_rabbitMQ\Receive_Rabbit\Receive_Rabbit\obj\Debug\net7.0\Receive_Rabbit.pdb
+D:\Studia\Sem6\Rozproszone systemy informatyczne\lab9_rabbitMQ\Receive_Rabbit\Receive_Rabbit\obj\Debug\net7.0\Receive_Rabbit.genruntimeconfig.cache
+D:\Studia\Sem6\Rozproszone systemy informatyczne\lab9_rabbitMQ\Receive_Rabbit\Receive_Rabbit\obj\Debug\net7.0\ref\Receive_Rabbit.dll

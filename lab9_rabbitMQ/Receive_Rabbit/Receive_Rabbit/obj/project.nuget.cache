@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "vrm2NJzROqtGIcbz7l9W8VS7Z0gIHlU1ug+omLHya+xh0Ls5tu7fTd3qyee/SEDDQs8I0GX/XCwj8D16spDkQQ==",
+  "dgSpecHash": "42Or1iQl366KgsIMq6pxuzwgt5FC47TAdpYpObu+Rb5vUH3ZSRepgDfRQnhtN2Oa/Lpa6WWk5ouELSOVLga3XQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Aleksandra\\Desktop\\Polibuda\\RSI\\REPO\\RSI\\lab9_rabbitMQ\\Receive_Rabbit\\Receive_Rabbit\\Receive_Rabbit.csproj",
+  "projectFilePath": "D:\\Studia\\Sem6\\Rozproszone systemy informatyczne\\lab9_rabbitMQ\\Receive_Rabbit\\Receive_Rabbit\\Receive_Rabbit.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Aleksandra\\.nuget\\packages\\rabbitmq.client\\6.5.0\\rabbitmq.client.6.5.0.nupkg.sha512",
-    "C:\\Users\\Aleksandra\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
-    "C:\\Users\\Aleksandra\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+    "C:\\Users\\shibe\\.nuget\\packages\\rabbitmq.client\\6.5.0\\rabbitmq.client.6.5.0.nupkg.sha512",
+    "C:\\Users\\shibe\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\shibe\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
   ],
   "logs": []
 }
