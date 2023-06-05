@@ -4,13 +4,9 @@ using System.Text;
 using RabbitMQ.Client;
 using RabbitMQ.Client.Events;
 
-string END_MESSAGE = "KONIEC";
 
-var factory = new ConnectionFactory { HostName = "192.168.43.194" };
-
-factory.Port = 5672;
-factory.UserName = "ola";
-factory.Password = "ola";
+MyData.MyData.info();
+var factory = new ConnectionFactory { HostName = "localhost" };
 using var connection = factory.CreateConnection();
 using var channel = connection.CreateModel();
 
@@ -54,7 +50,7 @@ consumer.Received += (model, ea) =>
     }
 
 };
-channel.BasicConsume(queue: "hello",
+channel.BasicConsume(queue: "hello-world",
                      autoAck: true,
                      consumer: consumer);
 
