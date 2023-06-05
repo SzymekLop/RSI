@@ -11,7 +11,7 @@ namespace Send_rabbit_2
     internal class Program
     {
         static void Main(string[] args)
-        {
+        { 
 
 
             MyData.MyData.info();
@@ -80,6 +80,12 @@ namespace Send_rabbit_2
 
                     Thread.Sleep(rng.Next(2500));
                 }
+                var endBodyLoop = Encoding.UTF8.GetBytes("KONIEC");
+                channel.BasicPublish(exchange: string.Empty,
+                             routingKey: "hello-world",
+                             basicProperties: properties,
+                             body: endBodyLoop);
+                Console.WriteLine("KONIEC");
             }
             Console.WriteLine(" Press [enter] to exit.");
             Console.ReadLine();

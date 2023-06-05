@@ -10,7 +10,7 @@ import java.nio.charset.StandardCharsets;
 import java.util.HashMap;
 import java.util.Scanner;
 
-public class Reciever {
+public class Receiver {
 
     private final static String QUEUE_NAME = "hello-word";
     private static final String MESSAGE_END = "KONIEC";

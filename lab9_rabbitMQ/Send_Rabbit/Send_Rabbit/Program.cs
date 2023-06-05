@@ -69,7 +69,7 @@ using (var channel = connection.CreateModel())
 
         Thread.Sleep(rng.Next(1000));
     }
-    var endBodyLoop = Encoding.UTF8.GetBytes("Szymek " + i);
+    var endBodyLoop = Encoding.UTF8.GetBytes("KONIEC");
     channel.BasicPublish(exchange: string.Empty,
                  routingKey: "hello-world",
                  basicProperties: properties,
