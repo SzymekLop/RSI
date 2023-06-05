@@ -2,6 +2,8 @@
 using RabbitMQ.Client;
 using RabbitMQ.Client.Events;
 
+
+MyData.MyData.info();
 var factory = new ConnectionFactory { HostName = "localhost" };
 using var connection = factory.CreateConnection();
 using var channel = connection.CreateModel();
@@ -21,7 +23,7 @@ consumer.Received += (model, ea) =>
     var message = Encoding.UTF8.GetString(body);
     Console.WriteLine($" [x] Received {message}");
 };
-channel.BasicConsume(queue: "hello",
+channel.BasicConsume(queue: "hello-world",
                      autoAck: true,
                      consumer: consumer);
 
