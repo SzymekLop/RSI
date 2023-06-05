@@ -1,0 +1,51 @@
+C:\Users\Aleksandra\source\repos\Send_Rabbit\Send_Rabbit\bin\Debug\net7.0\Send_Rabbit.exe
+C:\Users\Aleksandra\source\repos\Send_Rabbit\Send_Rabbit\bin\Debug\net7.0\Send_Rabbit.deps.json
+C:\Users\Aleksandra\source\repos\Send_Rabbit\Send_Rabbit\bin\Debug\net7.0\Send_Rabbit.runtimeconfig.json
+C:\Users\Aleksandra\source\repos\Send_Rabbit\Send_Rabbit\bin\Debug\net7.0\Send_Rabbit.dll
+C:\Users\Aleksandra\source\repos\Send_Rabbit\Send_Rabbit\bin\Debug\net7.0\Send_Rabbit.pdb
+C:\Users\Aleksandra\source\repos\Send_Rabbit\Send_Rabbit\bin\Debug\net7.0\RabbitMQ.Client.dll
+C:\Users\Aleksandra\source\repos\Send_Rabbit\Send_Rabbit\obj\Debug\net7.0\Send_Rabbit.csproj.AssemblyReference.cache
+C:\Users\Aleksandra\source\repos\Send_Rabbit\Send_Rabbit\obj\Debug\net7.0\Send_Rabbit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aleksandra\source\repos\Send_Rabbit\Send_Rabbit\obj\Debug\net7.0\Send_Rabbit.AssemblyInfoInputs.cache
+C:\Users\Aleksandra\source\repos\Send_Rabbit\Send_Rabbit\obj\Debug\net7.0\Send_Rabbit.AssemblyInfo.cs
+C:\Users\Aleksandra\source\repos\Send_Rabbit\Send_Rabbit\obj\Debug\net7.0\Send_Rabbit.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandra\source\repos\Send_Rabbit\Send_Rabbit\obj\Debug\net7.0\Send_Rabbit.csproj.CopyComplete
+C:\Users\Aleksandra\source\repos\Send_Rabbit\Send_Rabbit\obj\Debug\net7.0\Send_Rabbit.dll
+C:\Users\Aleksandra\source\repos\Send_Rabbit\Send_Rabbit\obj\Debug\net7.0\refint\Send_Rabbit.dll
+C:\Users\Aleksandra\source\repos\Send_Rabbit\Send_Rabbit\obj\Debug\net7.0\Send_Rabbit.pdb
+C:\Users\Aleksandra\source\repos\Send_Rabbit\Send_Rabbit\obj\Debug\net7.0\Send_Rabbit.genruntimeconfig.cache
+C:\Users\Aleksandra\source\repos\Send_Rabbit\Send_Rabbit\obj\Debug\net7.0\ref\Send_Rabbit.dll
+C:\Users\Aleksandra\Desktop\Polibuda\RSI\REPO\RSI\lab9_rabbitMQ\Send_Rabbit\Send_Rabbit\bin\Debug\net7.0\Send_Rabbit.exe
+C:\Users\Aleksandra\Desktop\Polibuda\RSI\REPO\RSI\lab9_rabbitMQ\Send_Rabbit\Send_Rabbit\bin\Debug\net7.0\Send_Rabbit.deps.json
+C:\Users\Aleksandra\Desktop\Polibuda\RSI\REPO\RSI\lab9_rabbitMQ\Send_Rabbit\Send_Rabbit\bin\Debug\net7.0\Send_Rabbit.runtimeconfig.json
+C:\Users\Aleksandra\Desktop\Polibuda\RSI\REPO\RSI\lab9_rabbitMQ\Send_Rabbit\Send_Rabbit\bin\Debug\net7.0\Send_Rabbit.dll
+C:\Users\Aleksandra\Desktop\Polibuda\RSI\REPO\RSI\lab9_rabbitMQ\Send_Rabbit\Send_Rabbit\bin\Debug\net7.0\Send_Rabbit.pdb
+C:\Users\Aleksandra\Desktop\Polibuda\RSI\REPO\RSI\lab9_rabbitMQ\Send_Rabbit\Send_Rabbit\bin\Debug\net7.0\RabbitMQ.Client.dll
+C:\Users\Aleksandra\Desktop\Polibuda\RSI\REPO\RSI\lab9_rabbitMQ\Send_Rabbit\Send_Rabbit\obj\Debug\net7.0\Send_Rabbit.csproj.AssemblyReference.cache
+C:\Users\Aleksandra\Desktop\Polibuda\RSI\REPO\RSI\lab9_rabbitMQ\Send_Rabbit\Send_Rabbit\obj\Debug\net7.0\Send_Rabbit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aleksandra\Desktop\Polibuda\RSI\REPO\RSI\lab9_rabbitMQ\Send_Rabbit\Send_Rabbit\obj\Debug\net7.0\Send_Rabbit.AssemblyInfoInputs.cache
+C:\Users\Aleksandra\Desktop\Polibuda\RSI\REPO\RSI\lab9_rabbitMQ\Send_Rabbit\Send_Rabbit\obj\Debug\net7.0\Send_Rabbit.AssemblyInfo.cs
+C:\Users\Aleksandra\Desktop\Polibuda\RSI\REPO\RSI\lab9_rabbitMQ\Send_Rabbit\Send_Rabbit\obj\Debug\net7.0\Send_Rabbit.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandra\Desktop\Polibuda\RSI\REPO\RSI\lab9_rabbitMQ\Send_Rabbit\Send_Rabbit\obj\Debug\net7.0\Send_Rabbit.csproj.CopyComplete
+C:\Users\Aleksandra\Desktop\Polibuda\RSI\REPO\RSI\lab9_rabbitMQ\Send_Rabbit\Send_Rabbit\obj\Debug\net7.0\Send_Rabbit.dll
+C:\Users\Aleksandra\Desktop\Polibuda\RSI\REPO\RSI\lab9_rabbitMQ\Send_Rabbit\Send_Rabbit\obj\Debug\net7.0\refint\Send_Rabbit.dll
+C:\Users\Aleksandra\Desktop\Polibuda\RSI\REPO\RSI\lab9_rabbitMQ\Send_Rabbit\Send_Rabbit\obj\Debug\net7.0\Send_Rabbit.pdb
+C:\Users\Aleksandra\Desktop\Polibuda\RSI\REPO\RSI\lab9_rabbitMQ\Send_Rabbit\Send_Rabbit\obj\Debug\net7.0\Send_Rabbit.genruntimeconfig.cache
+C:\Users\Aleksandra\Desktop\Polibuda\RSI\REPO\RSI\lab9_rabbitMQ\Send_Rabbit\Send_Rabbit\obj\Debug\net7.0\ref\Send_Rabbit.dll
+D:\Studia\Sem6\Rozproszone systemy informatyczne\lab9_rabbitMQ\Send_Rabbit\Send_Rabbit\bin\Debug\net7.0\Send_Rabbit.exe
+D:\Studia\Sem6\Rozproszone systemy informatyczne\lab9_rabbitMQ\Send_Rabbit\Send_Rabbit\bin\Debug\net7.0\Send_Rabbit.deps.json
+D:\Studia\Sem6\Rozproszone systemy informatyczne\lab9_rabbitMQ\Send_Rabbit\Send_Rabbit\bin\Debug\net7.0\Send_Rabbit.runtimeconfig.json
+D:\Studia\Sem6\Rozproszone systemy informatyczne\lab9_rabbitMQ\Send_Rabbit\Send_Rabbit\bin\Debug\net7.0\Send_Rabbit.dll
+D:\Studia\Sem6\Rozproszone systemy informatyczne\lab9_rabbitMQ\Send_Rabbit\Send_Rabbit\bin\Debug\net7.0\Send_Rabbit.pdb
+D:\Studia\Sem6\Rozproszone systemy informatyczne\lab9_rabbitMQ\Send_Rabbit\Send_Rabbit\bin\Debug\net7.0\RabbitMQ.Client.dll
+D:\Studia\Sem6\Rozproszone systemy informatyczne\lab9_rabbitMQ\Send_Rabbit\Send_Rabbit\obj\Debug\net7.0\Send_Rabbit.csproj.AssemblyReference.cache
+D:\Studia\Sem6\Rozproszone systemy informatyczne\lab9_rabbitMQ\Send_Rabbit\Send_Rabbit\obj\Debug\net7.0\Send_Rabbit.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studia\Sem6\Rozproszone systemy informatyczne\lab9_rabbitMQ\Send_Rabbit\Send_Rabbit\obj\Debug\net7.0\Send_Rabbit.AssemblyInfoInputs.cache
+D:\Studia\Sem6\Rozproszone systemy informatyczne\lab9_rabbitMQ\Send_Rabbit\Send_Rabbit\obj\Debug\net7.0\Send_Rabbit.AssemblyInfo.cs
+D:\Studia\Sem6\Rozproszone systemy informatyczne\lab9_rabbitMQ\Send_Rabbit\Send_Rabbit\obj\Debug\net7.0\Send_Rabbit.csproj.CoreCompileInputs.cache
+D:\Studia\Sem6\Rozproszone systemy informatyczne\lab9_rabbitMQ\Send_Rabbit\Send_Rabbit\obj\Debug\net7.0\Send_Rabbit.csproj.CopyComplete
+D:\Studia\Sem6\Rozproszone systemy informatyczne\lab9_rabbitMQ\Send_Rabbit\Send_Rabbit\obj\Debug\net7.0\Send_Rabbit.dll
+D:\Studia\Sem6\Rozproszone systemy informatyczne\lab9_rabbitMQ\Send_Rabbit\Send_Rabbit\obj\Debug\net7.0\refint\Send_Rabbit.dll
+D:\Studia\Sem6\Rozproszone systemy informatyczne\lab9_rabbitMQ\Send_Rabbit\Send_Rabbit\obj\Debug\net7.0\Send_Rabbit.pdb
+D:\Studia\Sem6\Rozproszone systemy informatyczne\lab9_rabbitMQ\Send_Rabbit\Send_Rabbit\obj\Debug\net7.0\Send_Rabbit.genruntimeconfig.cache
+D:\Studia\Sem6\Rozproszone systemy informatyczne\lab9_rabbitMQ\Send_Rabbit\Send_Rabbit\obj\Debug\net7.0\ref\Send_Rabbit.dll

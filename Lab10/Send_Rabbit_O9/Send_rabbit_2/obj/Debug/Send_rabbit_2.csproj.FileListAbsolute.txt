@@ -1,0 +1,52 @@
+D:\Studia\Sem6\Rozproszone systemy informatyczne\lab9_rabbitMQ\Send_Rabbit\Send_rabbit_2\bin\Debug\Send_rabbit_2.exe.config
+D:\Studia\Sem6\Rozproszone systemy informatyczne\lab9_rabbitMQ\Send_Rabbit\Send_rabbit_2\bin\Debug\Send_rabbit_2.exe
+D:\Studia\Sem6\Rozproszone systemy informatyczne\lab9_rabbitMQ\Send_Rabbit\Send_rabbit_2\bin\Debug\Send_rabbit_2.pdb
+D:\Studia\Sem6\Rozproszone systemy informatyczne\lab9_rabbitMQ\Send_Rabbit\Send_rabbit_2\bin\Debug\RabbitMQ.Client.dll
+D:\Studia\Sem6\Rozproszone systemy informatyczne\lab9_rabbitMQ\Send_Rabbit\Send_rabbit_2\bin\Debug\System.Buffers.dll
+D:\Studia\Sem6\Rozproszone systemy informatyczne\lab9_rabbitMQ\Send_Rabbit\Send_rabbit_2\bin\Debug\System.Memory.dll
+D:\Studia\Sem6\Rozproszone systemy informatyczne\lab9_rabbitMQ\Send_Rabbit\Send_rabbit_2\bin\Debug\System.Numerics.Vectors.dll
+D:\Studia\Sem6\Rozproszone systemy informatyczne\lab9_rabbitMQ\Send_Rabbit\Send_rabbit_2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Studia\Sem6\Rozproszone systemy informatyczne\lab9_rabbitMQ\Send_Rabbit\Send_rabbit_2\bin\Debug\System.Threading.Channels.dll
+D:\Studia\Sem6\Rozproszone systemy informatyczne\lab9_rabbitMQ\Send_Rabbit\Send_rabbit_2\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Studia\Sem6\Rozproszone systemy informatyczne\lab9_rabbitMQ\Send_Rabbit\Send_rabbit_2\bin\Debug\RabbitMQ.Client.xml
+D:\Studia\Sem6\Rozproszone systemy informatyczne\lab9_rabbitMQ\Send_Rabbit\Send_rabbit_2\bin\Debug\System.Buffers.xml
+D:\Studia\Sem6\Rozproszone systemy informatyczne\lab9_rabbitMQ\Send_Rabbit\Send_rabbit_2\bin\Debug\System.Memory.xml
+D:\Studia\Sem6\Rozproszone systemy informatyczne\lab9_rabbitMQ\Send_Rabbit\Send_rabbit_2\bin\Debug\System.Numerics.Vectors.xml
+D:\Studia\Sem6\Rozproszone systemy informatyczne\lab9_rabbitMQ\Send_Rabbit\Send_rabbit_2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Studia\Sem6\Rozproszone systemy informatyczne\lab9_rabbitMQ\Send_Rabbit\Send_rabbit_2\bin\Debug\System.Threading.Channels.xml
+D:\Studia\Sem6\Rozproszone systemy informatyczne\lab9_rabbitMQ\Send_Rabbit\Send_rabbit_2\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Studia\Sem6\Rozproszone systemy informatyczne\lab9_rabbitMQ\Send_Rabbit\Send_rabbit_2\obj\Debug\Send_rabbit_2.csproj.AssemblyReference.cache
+D:\Studia\Sem6\Rozproszone systemy informatyczne\lab9_rabbitMQ\Send_Rabbit\Send_rabbit_2\obj\Debug\Send_rabbit_2.csproj.SuggestedBindingRedirects.cache
+D:\Studia\Sem6\Rozproszone systemy informatyczne\lab9_rabbitMQ\Send_Rabbit\Send_rabbit_2\obj\Debug\Send_rabbit_2.csproj.CoreCompileInputs.cache
+D:\Studia\Sem6\Rozproszone systemy informatyczne\lab9_rabbitMQ\Send_Rabbit\Send_rabbit_2\obj\Debug\Send_rabbit_2.csproj.CopyComplete
+D:\Studia\Sem6\Rozproszone systemy informatyczne\lab9_rabbitMQ\Send_Rabbit\Send_rabbit_2\obj\Debug\Send_rabbit_2.exe
+D:\Studia\Sem6\Rozproszone systemy informatyczne\lab9_rabbitMQ\Send_Rabbit\Send_rabbit_2\obj\Debug\Send_rabbit_2.pdb
+D:\Studia\Sem6\Rozproszone systemy informatyczne\lab9_rabbitMQ\Send_Rabbit\Send_rabbit_2\bin\Debug\MyData.exe
+D:\Studia\Sem6\Rozproszone systemy informatyczne\lab9_rabbitMQ\Send_Rabbit\Send_rabbit_2\bin\Debug\MyData.pdb
+D:\Studia\Sem6\Rozproszone systemy informatyczne\lab9_rabbitMQ\Send_Rabbit\Send_rabbit_2\bin\Debug\MyData.exe.config
+C:\Users\Aleksandra\Desktop\Polibuda\RSI\REPO\RSI\lab9_rabbitMQ\Send_Rabbit\Send_rabbit_2\bin\Debug\Send_rabbit_2.exe.config
+C:\Users\Aleksandra\Desktop\Polibuda\RSI\REPO\RSI\lab9_rabbitMQ\Send_Rabbit\Send_rabbit_2\bin\Debug\Send_rabbit_2.exe
+C:\Users\Aleksandra\Desktop\Polibuda\RSI\REPO\RSI\lab9_rabbitMQ\Send_Rabbit\Send_rabbit_2\bin\Debug\Send_rabbit_2.pdb
+C:\Users\Aleksandra\Desktop\Polibuda\RSI\REPO\RSI\lab9_rabbitMQ\Send_Rabbit\Send_rabbit_2\bin\Debug\MyData.exe
+C:\Users\Aleksandra\Desktop\Polibuda\RSI\REPO\RSI\lab9_rabbitMQ\Send_Rabbit\Send_rabbit_2\bin\Debug\RabbitMQ.Client.dll
+C:\Users\Aleksandra\Desktop\Polibuda\RSI\REPO\RSI\lab9_rabbitMQ\Send_Rabbit\Send_rabbit_2\bin\Debug\System.Buffers.dll
+C:\Users\Aleksandra\Desktop\Polibuda\RSI\REPO\RSI\lab9_rabbitMQ\Send_Rabbit\Send_rabbit_2\bin\Debug\System.Memory.dll
+C:\Users\Aleksandra\Desktop\Polibuda\RSI\REPO\RSI\lab9_rabbitMQ\Send_Rabbit\Send_rabbit_2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Aleksandra\Desktop\Polibuda\RSI\REPO\RSI\lab9_rabbitMQ\Send_Rabbit\Send_rabbit_2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Aleksandra\Desktop\Polibuda\RSI\REPO\RSI\lab9_rabbitMQ\Send_Rabbit\Send_rabbit_2\bin\Debug\System.Threading.Channels.dll
+C:\Users\Aleksandra\Desktop\Polibuda\RSI\REPO\RSI\lab9_rabbitMQ\Send_Rabbit\Send_rabbit_2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Aleksandra\Desktop\Polibuda\RSI\REPO\RSI\lab9_rabbitMQ\Send_Rabbit\Send_rabbit_2\bin\Debug\MyData.pdb
+C:\Users\Aleksandra\Desktop\Polibuda\RSI\REPO\RSI\lab9_rabbitMQ\Send_Rabbit\Send_rabbit_2\bin\Debug\MyData.exe.config
+C:\Users\Aleksandra\Desktop\Polibuda\RSI\REPO\RSI\lab9_rabbitMQ\Send_Rabbit\Send_rabbit_2\bin\Debug\RabbitMQ.Client.xml
+C:\Users\Aleksandra\Desktop\Polibuda\RSI\REPO\RSI\lab9_rabbitMQ\Send_Rabbit\Send_rabbit_2\bin\Debug\System.Buffers.xml
+C:\Users\Aleksandra\Desktop\Polibuda\RSI\REPO\RSI\lab9_rabbitMQ\Send_Rabbit\Send_rabbit_2\bin\Debug\System.Memory.xml
+C:\Users\Aleksandra\Desktop\Polibuda\RSI\REPO\RSI\lab9_rabbitMQ\Send_Rabbit\Send_rabbit_2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Aleksandra\Desktop\Polibuda\RSI\REPO\RSI\lab9_rabbitMQ\Send_Rabbit\Send_rabbit_2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Aleksandra\Desktop\Polibuda\RSI\REPO\RSI\lab9_rabbitMQ\Send_Rabbit\Send_rabbit_2\bin\Debug\System.Threading.Channels.xml
+C:\Users\Aleksandra\Desktop\Polibuda\RSI\REPO\RSI\lab9_rabbitMQ\Send_Rabbit\Send_rabbit_2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Aleksandra\Desktop\Polibuda\RSI\REPO\RSI\lab9_rabbitMQ\Send_Rabbit\Send_rabbit_2\obj\Debug\Send_rabbit_2.csproj.AssemblyReference.cache
+C:\Users\Aleksandra\Desktop\Polibuda\RSI\REPO\RSI\lab9_rabbitMQ\Send_Rabbit\Send_rabbit_2\obj\Debug\Send_rabbit_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aleksandra\Desktop\Polibuda\RSI\REPO\RSI\lab9_rabbitMQ\Send_Rabbit\Send_rabbit_2\obj\Debug\Send_rabbit_2.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandra\Desktop\Polibuda\RSI\REPO\RSI\lab9_rabbitMQ\Send_Rabbit\Send_rabbit_2\obj\Debug\Send_rabbit_2.csproj.CopyComplete
+C:\Users\Aleksandra\Desktop\Polibuda\RSI\REPO\RSI\lab9_rabbitMQ\Send_Rabbit\Send_rabbit_2\obj\Debug\Send_rabbit_2.exe
+C:\Users\Aleksandra\Desktop\Polibuda\RSI\REPO\RSI\lab9_rabbitMQ\Send_Rabbit\Send_rabbit_2\obj\Debug\Send_rabbit_2.pdb
