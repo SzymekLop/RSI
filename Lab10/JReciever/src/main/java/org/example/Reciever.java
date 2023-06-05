@@ -12,7 +12,7 @@ import java.util.Scanner;
 
 public class Reciever {
 
-    private final static String QUEUE_NAME = "hello-word";
+    private final static String QUEUE_NAME = "hello-world";
     private static final String MESSAGE_END = "KONIEC";
     private static final String SENDER_ID = "senderId";
     public static void main(String[] argv) throws Exception {
