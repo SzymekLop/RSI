@@ -4,33 +4,37 @@ import com.fasterxml.jackson.annotation.JsonProperty;
 import java.time.LocalDateTime;
 
 public class Message {
-    @JsonProperty("time")
+    @JsonProperty("Time")
     private LocalDateTime time;
-    @JsonProperty("message")
-    private String message;
-    @JsonProperty("value")
+    @JsonProperty("Body")
+    private String body;
+    @JsonProperty("Value")
     private int value;
 
     @Override
     public String toString() {
         return "Message{" +
                 "At: " + time +
-                ", message='" + message + '\'' +
+                ", message='" + body + '\'' +
                 ", value=" + value +
                 '}';
     }
 
-    public String getMessage() {
-        return message;
+    public String getBody() {
+        return body;
     }
 
-    public void setMessage(String message) {
-        this.message = message;
+    public void setBody(String body) {
+        this.body = body;
+    }
+
+    public Message(){
+
     }
 
     public Message(LocalDateTime time, String message, int value) {
         this.time = time;
-        this.message = message;
+        this.body = message;
         this.value = value;
     }
 

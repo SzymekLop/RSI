@@ -14,16 +14,17 @@ public class Receiver {
 
     private final static String QUEUE_NAME = "hello-world";
     private static final String MESSAGE_END = "KONIEC";
-    private static final String SENDER_ID = "senderId";
+    private static final String SENDER_ID = "SenderId";
     public static void main(String[] argv) throws Exception {
         String choice = "again";
 
-        while (choice.equals("again")){
+        //while (true){
             ConnectionFactory factory = new ConnectionFactory();
-            factory.setHost("localhost");
+            factory.setHost("192.168.43.40");
 
-            // factory.setUsername("guest");
-            // factory.setPassword("guest");
+            factory.setPort(5672);
+            factory.setUsername("szymek");
+            factory.setPassword("szymek");
 
             Connection connection = factory.newConnection();
             Channel channel = connection.createChannel();
@@ -41,10 +42,18 @@ public class Receiver {
                 if(headers != null && headers.containsKey(SENDER_ID)){
                     if (messageJson.equals(MESSAGE_END)) {
                         senders.put(headers.get(SENDER_ID), false);
-                        if(senders.values().stream().noneMatch(value -> value)){
+                        boolean ended = senders.values().stream().noneMatch(value -> value);
+                        if(ended){
                             try {
-                                channel.close();
-                                connection.close();
+                                Scanner scn = new Scanner(System.in);
+                                System.out.println("Wpisz \"again\" aby ponowić, cokolwiek aby zakończyć");
+
+                                if(!scn.nextLine().equals("again")){
+                                    System.out.println("end");
+                                    channel.close();
+                                    connection.close();
+                                }
+
                             } catch (Exception e) {
                                 e.printStackTrace();
                             }
@@ -54,17 +63,21 @@ public class Receiver {
                         senders.put(headers.get(SENDER_ID), true);
 
                         ObjectMapper objectMapper = new ObjectMapper();
-                        Message message = objectMapper.readValue(messageJson, Message.class);
+                        try{
+                            Message message = objectMapper.readValue(messageJson, Message.class);
+                            System.out.println("- Wiadomość:\n   " + message.toString());
+                        }
+                        catch (Exception e){
+                            System.out.println(e.getMessage());
+                        }
 
-                        System.out.println("- Wiadomość:\n   " + message.toString());
+
+
                     }
                 }
             };
             channel.basicConsume(QUEUE_NAME, true, deliverCallback, consumerTag -> { });
-            Scanner scn = new Scanner(System.in);
-            System.out.println("Wpisz \"again\" aby ponowić, cokolwiek aby zakończyć");
-            choice = scn.nextLine();
-        }
+       // }
 
     }
 }

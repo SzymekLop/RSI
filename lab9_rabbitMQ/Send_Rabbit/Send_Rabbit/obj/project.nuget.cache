@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "POisI+08+igXjX3wdekmLkDGqZ1ZYhN//goKylYhhlgEec/gfK7CCtTlxaiNW5yXdizJOci2EVE9OyFLsQgcOQ==",
+  "dgSpecHash": "3GB5Igr8pMPgbfR5IzF//zqOS0z43pcd8mEoX6hQk/L2uGFTR4+vuaD/nNDYl6Wi9eJ5d+sXvSu3ubLy50Fw+Q==",
   "success": true,
   "projectFilePath": "D:\\Studia\\Sem6\\Rozproszone systemy informatyczne\\lab9_rabbitMQ\\Send_Rabbit\\Send_Rabbit\\Send_Rabbit.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\shibe\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\shibe\\.nuget\\packages\\rabbitmq.client\\6.5.0\\rabbitmq.client.6.5.0.nupkg.sha512",
     "C:\\Users\\shibe\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
     "C:\\Users\\shibe\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"

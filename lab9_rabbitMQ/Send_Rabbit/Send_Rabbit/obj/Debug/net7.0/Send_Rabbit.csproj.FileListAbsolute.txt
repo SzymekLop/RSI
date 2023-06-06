@@ -49,3 +49,4 @@ D:\Studia\Sem6\Rozproszone systemy informatyczne\lab9_rabbitMQ\Send_Rabbit\Send_
 D:\Studia\Sem6\Rozproszone systemy informatyczne\lab9_rabbitMQ\Send_Rabbit\Send_Rabbit\obj\Debug\net7.0\Send_Rabbit.pdb
 D:\Studia\Sem6\Rozproszone systemy informatyczne\lab9_rabbitMQ\Send_Rabbit\Send_Rabbit\obj\Debug\net7.0\Send_Rabbit.genruntimeconfig.cache
 D:\Studia\Sem6\Rozproszone systemy informatyczne\lab9_rabbitMQ\Send_Rabbit\Send_Rabbit\obj\Debug\net7.0\ref\Send_Rabbit.dll
+D:\Studia\Sem6\Rozproszone systemy informatyczne\lab9_rabbitMQ\Send_Rabbit\Send_Rabbit\bin\Debug\net7.0\Newtonsoft.Json.dll

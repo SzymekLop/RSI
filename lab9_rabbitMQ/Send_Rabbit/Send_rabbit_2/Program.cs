@@ -1,4 +1,6 @@
-﻿using RabbitMQ.Client;
+﻿using Newtonsoft.Json;
+using RabbitMQ.Client;
+using Send_Rabbit_2;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -15,7 +17,7 @@ namespace Send_rabbit_2
 
 
             MyData.MyData.info();
-            var factory = new ConnectionFactory { HostName = "192.168.43.194" };
+            var factory = new ConnectionFactory { HostName = "192.168.43.40" };
 
             factory.Port = 5672;
             factory.UserName = "ola";
@@ -37,7 +39,7 @@ namespace Send_rabbit_2
                 var properties = channel.CreateBasicProperties();
                 properties.Headers = new Dictionary<string, object>
                 {
-                    { "SenderId", "0" }
+                    { "SenderId", "1" }
                 };
 
 
@@ -71,12 +73,15 @@ namespace Send_rabbit_2
                 for (int i = 0; i < 5; i++)
                 {
                     Random rng = new Random();
-                    var bodyLoop = Encoding.UTF8.GetBytes("Ola " + i);
+                    Message myMessage = new Message(DateTime.Now, "Ola", i);
+                    var json = JsonConvert.SerializeObject(myMessage);
+                    var bodyLoop = Encoding.UTF8.GetBytes(json);
+
                     channel.BasicPublish(exchange: string.Empty,
                                  routingKey: "hello-world",
                                  basicProperties: properties,
                                  body: bodyLoop);
-                    Console.WriteLine($"Wysłano Ola " + i);
+                    Console.WriteLine($"Wysłano " + myMessage.ToString());
 
                     Thread.Sleep(rng.Next(2500));
                 }

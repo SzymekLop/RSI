@@ -24,3 +24,5 @@ D:\Studia\Sem6\Rozproszone systemy informatyczne\lab9_rabbitMQ\Send_Rabbit\Send_
 D:\Studia\Sem6\Rozproszone systemy informatyczne\lab9_rabbitMQ\Send_Rabbit\Send_rabbit_2\bin\Debug\MyData.exe
 D:\Studia\Sem6\Rozproszone systemy informatyczne\lab9_rabbitMQ\Send_Rabbit\Send_rabbit_2\bin\Debug\MyData.pdb
 D:\Studia\Sem6\Rozproszone systemy informatyczne\lab9_rabbitMQ\Send_Rabbit\Send_rabbit_2\bin\Debug\MyData.exe.config
+D:\Studia\Sem6\Rozproszone systemy informatyczne\lab9_rabbitMQ\Send_Rabbit\Send_rabbit_2\bin\Debug\Newtonsoft.Json.dll
+D:\Studia\Sem6\Rozproszone systemy informatyczne\lab9_rabbitMQ\Send_Rabbit\Send_rabbit_2\bin\Debug\Newtonsoft.Json.xml

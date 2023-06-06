@@ -1,10 +1,12 @@
 ﻿using System.Text;
 using System.Text.RegularExpressions;
 using RabbitMQ.Client;
+using Newtonsoft.Json;
+using Send_Rabbit;
 
 MyData.MyData.info();
 
-var factory = new ConnectionFactory { HostName = "192.168.43.194" };
+var factory = new ConnectionFactory { HostName = "192.168.43.40" };
 
 factory.Port = 5672;
 factory.UserName = "szymek";
@@ -60,12 +62,15 @@ using (var channel = connection.CreateModel())
     for(int i=0; i < 5; i++)
     {
         Random rng = new Random();
-        var bodyLoop = Encoding.UTF8.GetBytes("Szymek " + i);
+        Message myMessage = new Message(DateTime.Now.TimeOfDay, "Szymek", i);
+        var json = JsonConvert.SerializeObject(myMessage);
+        var bodyLoop = Encoding.UTF8.GetBytes(json);
+
         channel.BasicPublish(exchange: string.Empty,
                      routingKey: "hello-world",
                      basicProperties: properties,
                      body: bodyLoop);
-        Console.WriteLine($"Wysłano Szymek " + i);
+        Console.WriteLine($"Wysłano " + myMessage.ToString);
 
         Thread.Sleep(rng.Next(1000));
     }
