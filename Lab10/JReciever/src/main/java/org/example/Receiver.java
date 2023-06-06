@@ -14,7 +14,8 @@ import java.util.concurrent.TimeoutException;
 
 public class Receiver {
 
-    private final static String QUEUE_NAME = "hello-world";
+    private final static String BROKER_IP = "10.182.17.252";
+    private final static String QUEUE_NAME = "ola-szymek";
     private static final String MESSAGE_END = "KONIEC";
     private static final String SENDER_ID = "SenderId";
 
@@ -39,18 +40,17 @@ public class Receiver {
                     boolean ended = senders.values().stream().noneMatch(value -> value);
                     if(ended){
                         try {
+                            channel.close();
+                            connection.close();
+
                             Scanner scn = new Scanner(System.in);
                             System.out.println("Wpisz \"again\" aby ponowić, cokolwiek aby zakończyć");
 
                             if(!scn.nextLine().equals("again")){
                                 System.out.println("end");
-                                channel.close();
-                                connection.close();
                                 System.exit(0);
                             }
                             else{
-                                channel.close();
-                                connection.close();
                                 rabbit(factory);
                             }
                         } catch (Exception e) {
@@ -76,13 +76,14 @@ public class Receiver {
     }
     public static void main(String[] argv) throws Exception {
 
+        MyData.info();
 
         ConnectionFactory factory = new ConnectionFactory();
-        factory.setHost("192.168.43.40");
+        factory.setHost(BROKER_IP);
 
         factory.setPort(5672);
-        factory.setUsername("szymek");
-        factory.setPassword("szymek");
+        factory.setUsername("admin");
+        factory.setPassword("admin");
         rabbit(factory);
     }
 }
