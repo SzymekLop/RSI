@@ -38,8 +38,35 @@ using (var channel = connection.CreateModel())
                  body: body);
     Console.WriteLine($" [x] Sent {message}");
 
+    long start = DateTimeOffset.Now.ToUnixTimeMilliseconds();
+    int i = 0;
+    //for (int i=0; i < 5; i++)
+    while (DateTimeOffset.Now.ToUnixTimeMilliseconds() - start < 10000)
+    {
+        Random rng = new Random();
+        Message myMessage = new Message(DateTime.Now.TimeOfDay, "Szymek", i++);
+        var json = JsonConvert.SerializeObject(myMessage);
+        var bodyLoop = Encoding.UTF8.GetBytes(json);
 
-    //string userInput = "";
+        channel.BasicPublish(exchange: string.Empty,
+                     routingKey: "hello-world",
+                     basicProperties: properties,
+                     body: bodyLoop);
+        Console.WriteLine($"Wysłano " + myMessage.ToString());
+
+        Thread.Sleep(rng.Next(1000) + 1000);
+    }
+    var endBodyLoop = Encoding.UTF8.GetBytes("KONIEC");
+    channel.BasicPublish(exchange: string.Empty,
+                 routingKey: "hello-world",
+                 basicProperties: properties,
+                 body: endBodyLoop);
+    Console.WriteLine("KONIEC");
+}
+Console.WriteLine(" Press [enter] to exit.");
+Console.ReadLine();
+
+//string userInput = "";
 /*    while (true)
     {
         Console.Write("Wprowadź wiadomość: ");
@@ -58,28 +85,3 @@ using (var channel = connection.CreateModel())
                      body: bodyLoop);
         Console.WriteLine($" [x] Wysłano {message}");
     }*/
-
-    for(int i=0; i < 5; i++)
-    {
-        Random rng = new Random();
-        Message myMessage = new Message(DateTime.Now.TimeOfDay, "Szymek", i);
-        var json = JsonConvert.SerializeObject(myMessage);
-        var bodyLoop = Encoding.UTF8.GetBytes(json);
-
-        channel.BasicPublish(exchange: string.Empty,
-                     routingKey: "hello-world",
-                     basicProperties: properties,
-                     body: bodyLoop);
-        Console.WriteLine($"Wysłano " + myMessage.ToString);
-
-        Thread.Sleep(rng.Next(1000));
-    }
-    var endBodyLoop = Encoding.UTF8.GetBytes("KONIEC");
-    channel.BasicPublish(exchange: string.Empty,
-                 routingKey: "hello-world",
-                 basicProperties: properties,
-                 body: endBodyLoop);
-    Console.WriteLine("KONIEC");
-}
-Console.WriteLine(" Press [enter] to exit.");
-Console.ReadLine();

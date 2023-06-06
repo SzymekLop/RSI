@@ -70,10 +70,13 @@ namespace Send_rabbit_2
                         Console.WriteLine($" [x] Wysłano {message}");
                     }*/
 
-                for (int i = 0; i < 5; i++)
+                long start = DateTimeOffset.Now.ToUnixTimeMilliseconds();
+                int i = 0;
+                //for (int i=0; i < 5; i++)
+                while (DateTimeOffset.Now.ToUnixTimeMilliseconds() - start < 12000)
                 {
                     Random rng = new Random();
-                    Message myMessage = new Message(DateTime.Now, "Ola", i);
+                    Message myMessage = new Message(DateTime.Now.TimeOfDay, "Ola", i++);
                     var json = JsonConvert.SerializeObject(myMessage);
                     var bodyLoop = Encoding.UTF8.GetBytes(json);
 
@@ -83,7 +86,7 @@ namespace Send_rabbit_2
                                  body: bodyLoop);
                     Console.WriteLine($"Wysłano " + myMessage.ToString());
 
-                    Thread.Sleep(rng.Next(2500));
+                    Thread.Sleep(rng.Next(1000)+2000);
                 }
                 var endBodyLoop = Encoding.UTF8.GetBytes("KONIEC");
                 channel.BasicPublish(exchange: string.Empty,

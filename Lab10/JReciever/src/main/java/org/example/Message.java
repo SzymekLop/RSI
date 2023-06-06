@@ -1,11 +1,18 @@
 package org.example;
+import com.fasterxml.jackson.annotation.JsonFormat;
 import com.fasterxml.jackson.annotation.JsonProperty;
+import com.fasterxml.jackson.databind.annotation.JsonDeserialize;
+import com.fasterxml.jackson.databind.annotation.JsonSerialize;
+import org.example.Json.LocalTimeDeserializer;
+import org.example.Json.LocalTimeSerializer;
 
-import java.time.LocalDateTime;
+import java.time.LocalTime;
 
 public class Message {
     @JsonProperty("Time")
-    private LocalDateTime time;
+    @JsonSerialize(using = LocalTimeSerializer.class)
+    @JsonDeserialize(using = LocalTimeDeserializer.class)
+    private LocalTime time;
     @JsonProperty("Body")
     private String body;
     @JsonProperty("Value")
@@ -15,7 +22,7 @@ public class Message {
     public String toString() {
         return "Message{" +
                 "At: " + time +
-                ", message='" + body + '\'' +
+                ", body='" + body + '\'' +
                 ", value=" + value +
                 '}';
     }
@@ -32,17 +39,17 @@ public class Message {
 
     }
 
-    public Message(LocalDateTime time, String message, int value) {
+    public Message(LocalTime time, String message, int value) {
         this.time = time;
         this.body = message;
         this.value = value;
     }
 
-    public LocalDateTime getTime() {
+    public LocalTime getTime() {
         return time;
     }
 
-    public void setTime(LocalDateTime time) {
+    public void setTime(LocalTime time) {
         this.time = time;
     }
 
@@ -53,4 +60,5 @@ public class Message {
     public void setValue(int value) {
         this.value = value;
     }
+
 }

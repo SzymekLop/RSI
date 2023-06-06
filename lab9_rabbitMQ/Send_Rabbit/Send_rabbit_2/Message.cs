@@ -8,11 +8,11 @@ namespace Send_Rabbit_2
 {
     public class Message
     {
-        public DateTime Time {  get; set; }
+        public TimeSpan Time { get; set; }
         public string Body { get; set; }
         public int Value { get; set; }
 
-        public Message(DateTime time, string body, int value) 
+        public Message(TimeSpan time, string body, int value)
         {
             Time = time;
             Body = body;
